@@ -1,0 +1,60 @@
+/* fonds */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+ /* tools */
+
+    li {
+       list-style: none;
+    }
+
+    img {
+        display: block;
+        max-width: 100;
+        height: auto;
+        }
+
+        a {
+            text-decoration: none;
+            font-style: normal;
+        }
+     
+        .container{
+        width: 1200px;
+           margin-left: auto;
+           margin-right: auto;
+            padding-left: 15px;
+           padding-right: 15px;
+         }
+
+    
+    /* header */
+    figure {
+        text-align: center;
+      }
+
+    .name {
+        display: inline-block;
+    }
+
+    .zagolovok {
+        margin-left: 25px;
+    }               
+
+    .verse {
+        width: 200px;
+        margin-left: 50px;
+    }
+
+    /* footer */
+    .footer{
+        background-color: #2F303A;
+    }
+    
+    .pro-avtora {
+        color: #FFFFFF;
+    }
+
+    .footer-contact {
+       color: #FFFFFF ;
+    }
